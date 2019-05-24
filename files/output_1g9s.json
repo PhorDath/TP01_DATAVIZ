@@ -1,0 +1,5 @@
+var sets = [ 
+                {sets:["Protein"], figure: 8.91, label: "Protein", size: 9},
+                {sets:["Cognate"], figure: 34.53, label: "Cognate", size: 9},
+                {sets:["Protein", "Cognate"], figure: 40.9, label: "Intersection", size: 9},
+    ];
