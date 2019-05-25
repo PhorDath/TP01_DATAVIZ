@@ -318,9 +318,9 @@
 
     function disp(){
         sets = [
-                        {sets:["Protein"], figure: 1, label: "Proteina", size: Prot.length},
-                        {sets:["Cognate"], figure: 1, label: "Cognato", size: Cog.length},
-                        {sets:["Protein", "Cognate"], figure: 1, label: "", size: intersect(Prot, Cog).length},
+                        {sets:["Ligante"], figure: 1, label: "Proteina", size: Prot.length},
+                        {sets:["Cognato"], figure: 1, label: "Cognato", size: Cog.length},
+                        {sets:["Ligante", "Cognato"], figure: 1, label: "", size: intersect(Prot, Cog).length},
                     ];
 
         document.getElementById("identificacao").innerHTML = ProtName;
