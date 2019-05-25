@@ -1,8 +1,8 @@
-Proteina,Cognato
-GLN:B:71,
-LEU:B:59,
-GLY:B:11,
-PHE:B:208,
+Ligante,Cognato
 LEU:B:12,
-ASN:B:58,
 SER:B:72,
+GLY:B:11,
+LEU:B:59,
+PHE:B:208,
+ASN:B:58,
+GLN:B:71,

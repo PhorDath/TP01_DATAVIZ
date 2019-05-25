@@ -1,6 +1,6 @@
-Proteina,Cognato
+Ligante,Cognato
+SER:B:37,SER:B:37
 PRO:B:1,PRO:B:1
 ILE:B:2,ILE:B:2
-SER:B:37,SER:B:37
-,ILE:A:7
 ,HIS:A:6
+,ILE:A:7
